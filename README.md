@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi there, here is Kevin Sanchez's GitHub.
+### Now I'm focusing on developing FastGit which provides the high-speed github acceleration service. 
+
+---
+
+Proudly develop with ❤️ and .NET
 
 <!--
 **KevinZonda/KevinZonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
