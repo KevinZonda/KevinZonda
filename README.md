@@ -1,4 +1,6 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="fastgit" src="https://avatars2.githubusercontent.com/u/62810231?s=200&v=4">
+<img width="195" height="195" align="left" style="float: left; margin: 0 10px 0 0;" alt="fastgit" src="https://avatars2.githubusercontent.com/u/62810231?s=200&v=4">
+
+[![kevinzonda github stats](https://github-readme-stats.vercel.app/api?username=kevinzonda)]((https://github.com/KevinZonda)
 
 ### 👋 Hi there, here is Kevin Sanchez's GitHub.
 ### Now I'm focusing on developing [FastGit](https://fastgit.org) which provides the high-speed github acceleration service. 
@@ -9,6 +11,7 @@
 ---
 
 **Proudly develop with ❤️ and .NET**
+
 
 <!--
 **KevinZonda/KevinZonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
