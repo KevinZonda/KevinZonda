@@ -5,7 +5,7 @@
     <br>
     <br>
     <img width="195" height="195" align="left" style="float: left; margin: 0 10px 0 0;" alt="fastgit" src="https://avatars2.githubusercontent.com/u/62810231?s=200&v=4">-->
-    <img width="195" height="195" align="left" style="float: left; margin: 0 10px 0 0;" src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif">
+    <img width="100" height="100" align="left" style="float: left; margin: 0 10px 0 0;" src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif">
     <img src="https://github-readme-stats.vercel.app/api?username=kevinzonda&hide_border=true">
 </div>
 
