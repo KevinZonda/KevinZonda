@@ -1,13 +1,12 @@
 <div align="center">
-	<br>
-	<br>
-	<img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64">
-	<br>
-	<br>
+    <br>
+    <br>
+    <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64">
+    <br>
+    <br>
+    <img width="195" height="195" align="left" style="float: left; margin: 0 10px 0 0;" alt="fastgit" src="https://avatars2.githubusercontent.com/u/62810231?s=200&v=4">
+    <img src="https://github-readme-stats.vercel.app/api?username=kevinzonda&hide_border=true">
 </div>
-<img width="195" height="195" align="left" style="float: left; margin: 0 10px 0 0;" alt="fastgit" src="https://avatars2.githubusercontent.com/u/62810231?s=200&v=4">
-
-[![kevinzonda github stats](https://github-readme-stats.vercel.app/api?username=kevinzonda&hide_border=true)](https://github.com/KevinZonda)
 
 ### 👋 Hi there, here is Kevin Sanchez's GitHub.
 ### Now I'm focusing on developing [FastGit](https://fastgit.org) which provides the high-speed github acceleration service. 
