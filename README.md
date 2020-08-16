@@ -1,16 +1,5 @@
 <div align="center">
-    <!--<br>
-    <br>
-    <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64">
-    <br>
-    <br>
-    <img width="195" height="195" align="left" style="float: left; margin: 0 10px 0 0;" alt="fastgit" src="https://avatars2.githubusercontent.com/u/62810231?s=200&v=4">-->
-    <br>
-	<br>
-	<img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64">
-	<br>
-	<br>
-    <!--<img src="https://github-readme-stats.vercel.app/api?username=kevinzonda&hide_border=true">-->
+  <img src="https://github.com/KevinZonda/KevinZonda/raw/master/img/gh.svg？sanitize=true">
 </div>
 
 ### 👋 Hi there, here is Kevin Sanchez's GitHub.
@@ -22,7 +11,6 @@
 ---
 
 **Proudly develop with ❤️ and .NET**
-
 
 <!--
 **KevinZonda/KevinZonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
