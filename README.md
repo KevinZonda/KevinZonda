@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/KevinZonda/KevinZonda/raw/master/img/gh.svg？sanitize=true">
+  <img src="https://github.com/KevinZonda/KevinZonda/raw/master/img/gh.svg?sanitize=true">
 </div>
 
 ### 👋 Hi there, here is Kevin Sanchez's GitHub.
