@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
   <img src="https://github.com/KevinZonda/KevinZonda/raw/master/img/gh.svg?sanitize=true">
-</div>
+</div> -->
 
 ### 👋 Hi there, here is Kevin Sanchez's GitHub.
 ### Now I'm focusing on developing [FastGit](https://fastgit.org) which provides the high-speed github acceleration service. 
