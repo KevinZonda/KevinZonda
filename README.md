@@ -10,7 +10,9 @@
 <!--[![Visit](https://img.shields.io/badge/dynamic/json?label=Visits&labelColor=282c34&query=%24.KevinZonda&url=https%3A%2F%2Fgist-counter.vercel.app%2Fapi?name=KevinZonda)](https://github.com/KevinZonda)-->
 ---
 
-**Proudly develop with ❤️ and .NET** ![InternetExplorerCertification](https://cdn.jsdelivr.net/gh/KevinZonda/KevinZonda@141c70efebef04086195f14e2b6febb8c5a63787/img/IE-Certification.gif)
+**Proudly develop with ❤️ and .NET**
+
+![InternetExplorerCertification](https://cdn.jsdelivr.net/gh/KevinZonda/KevinZonda@141c70efebef04086195f14e2b6febb8c5a63787/img/IE-Certification.gif)
 
 <!--
 **KevinZonda/KevinZonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
