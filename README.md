@@ -12,7 +12,7 @@
 
 **Proudly develop with ❤️ and .NET**
 
-![InternetExplorerCertification](https://cdn.jsdelivr.net/gh/KevinZonda/KevinZonda@141c70efebef04086195f14e2b6febb8c5a63787/img/IE-Certification.gif)
+[![InternetExplorerCertification](https://cdn.jsdelivr.net/gh/KevinZonda/KevinZonda@141c70efebef04086195f14e2b6febb8c5a63787/img/IE-Certification.gif)](https://www.microsoft.com/en-gb/download/internet-explorer.aspx)
 
 <!--
 **KevinZonda/KevinZonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
