@@ -2,6 +2,14 @@
   <img src="https://github.com/KevinZonda/KevinZonda/raw/master/img/gh.svg?sanitize=true">
 </div> -->
 
+```plain
+  _  __                 _              _____                          _                  
+ | |/ /                (_)            / ____|                        | |                 
+ | ' /    ___  __   __  _   _ __     | (___     __ _   _ __     ___  | |__     ___   ____
+ |  <    / _ \ \ \ / / | | | '_ \     \___ \   / _` | | '_ \   / __| | '_ \   / _ \ |_  /
+ | . \  |  __/  \ V /  | | | | | |    ____) | | (_| | | | | | | (__  | | | | |  __/  / / 
+ |_|\_\  \___|   \_/   |_| |_| |_|   |_____/   \__,_| |_| |_|  \___| |_| |_|  \___| /___|
+```
 ### 👋 Hi there! Here is Kevin Sanchez's GitHub.
 ### Now I'm focusing on developing [FastGit](https://fastgit.org) which provides the high-speed github acceleration service. 
 
