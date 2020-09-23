@@ -25,8 +25,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual+Studio+Code)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=Windows)
+![Linux](https://img.shields.io/badge/Linux-000000?logo=Linux&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=Debian)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=Linux+Mint&logoColor=white)
 
 <!--[![Visit](https://img.shields.io/badge/dynamic/json?label=Visits&labelColor=282c34&query=%24.KevinZonda&url=https%3A%2F%2Fgist-counter.vercel.app%2Fapi?name=KevinZonda)](https://github.com/KevinZonda)-->
 ---
