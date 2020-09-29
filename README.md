@@ -2,6 +2,7 @@
   <img src="https://github.com/KevinZonda/KevinZonda/raw/master/img/gh.svg?sanitize=true">
 </div> -->
 
+<!--
 ```plain
   _  __                 _              _____                          _                  
  | |/ /                (_)            / ____|                        | |                 
@@ -10,6 +11,10 @@
  | . \  |  __/  \ V /  | | | | | |    ____) | | (_| | | | | | | (__  | | | | |  __/  / / 
  |_|\_\  \___|   \_/   |_| |_| |_|   |_____/   \__,_| |_| |_|  \___| |_| |_|  \___| /___|
 ```
+-->
+
+![Dragon](img/dragon.jpg)
+
 ### 👋 Hi there! Here is Kevin Sanchez's GitHub.
 ### Now I'm focusing on developing [FastGit](https://fastgit.org) which provides the high-speed github acceleration service. 
 
