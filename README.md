@@ -21,7 +21,7 @@
 ![FastGit](https://img.shields.io/badge/FastGit-008DE4?logo=Git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DKevinZonda&longCache=true)](https://github.com/KevinZonda?tab=followers)
 [![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40FastGit&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DFastGit&longCache=true)](https://t.me/fastgit)
-[![Twitter](https://img.shields.io/twitter/follow/emptyMethod?style=plastic&logo=Twitter&lColor=282c34&color=1DA1F2)](https://twitter.com/emptyMethod)
+[![Twitter](https://img.shields.io/twitter/follow/emptyMethod?style=social)](https://twitter.com/emptyMethod)
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white)
