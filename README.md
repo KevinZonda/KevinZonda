@@ -15,7 +15,7 @@
 
 ![Dragon](img/ads.jpg)
 
-### 👋 Hi there! Here is Kevin Sanchez's GitHub.
+### 👋 Hi there! Here is Kevin CHEN's GitHub.
 ### Now I'm focusing on developing [FastGit](https://fastgit.org) which provides the high-speed github acceleration service. 
 
 [![Mail](https://img.shields.io/badge/Mail-kevin@v2fly.org-cc0099?logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:kevin@v2fly.org)
