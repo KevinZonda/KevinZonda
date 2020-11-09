@@ -13,7 +13,7 @@
 ```
 -->
 
-![Dragon](img/dragon.jpg)
+![Dragon](img/ads.jpg)
 
 ### 👋 Hi there! Here is Kevin Sanchez's GitHub.
 ### Now I'm focusing on developing [FastGit](https://fastgit.org) which provides the high-speed github acceleration service. 
