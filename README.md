@@ -18,6 +18,7 @@
 ### 👋 Hi there! Here is Kevin CHEN's GitHub.
 ### Now I'm focusing on developing [FastGit](https://fastgit.org) which provides the high-speed github acceleration service. 
 
+[![Mail](https://img.shields.io/badge/Mail-kevin@fastgit.org-008DE4?logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:kevin@fastgit.org)
 [![Mail](https://img.shields.io/badge/Mail-kevin@v2fly.org-cc0099?logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:kevin@v2fly.org)
 [![Mail](https://img.shields.io/badge/Mail-realkevin@tutanota.com-840006?logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:realkevin@tutanota.com)
 [![TG](https://img.shields.io/badge/TG-@NodaYojiro-black?logo=telegram&labelColor=282c34&color=2CA5E0)](htt[s://t.me/NodaYojiro)
@@ -28,9 +29,10 @@
 [![Twitter](https://img.shields.io/twitter/follow/emptyMethod?style=social)](https://twitter.com/emptyMethod)
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=C+Sharp)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-5391FE?logo=PowerShell&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA#000000&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual+Studio)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual+Studio+Code)
 
@@ -39,6 +41,16 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=Debian)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=Linux+Mint&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=Microsoft+Azure&logoColor=white)
+![XFCE](https://img.shields.io/badge/XFCE-2284F2?logo=XFCE&logoColor=white)
+![KDE](https://img.shields.io/badge/KDE-1D99F3?logo=KDE&logoColor=white)
+
+![Microsoft](https://img.shields.io/badge/Microsoft-666666?logo=Microsoft)
+![Intel](https://img.shields.io/badge/Intel-0071C5?logo=Intel)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?logo=NVIDIA&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=Raspberry%20Pi)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white)
+
 
 <!--[![Visit](https://img.shields.io/badge/dynamic/json?label=Visits&labelColor=282c34&query=%24.KevinZonda&url=https%3A%2F%2Fgist-counter.vercel.app%2Fapi?name=KevinZonda)](https://github.com/KevinZonda)-->
 ---
