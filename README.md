@@ -35,6 +35,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA#000000&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual+Studio)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual+Studio+Code)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=Xamarin&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=Windows)
 ![Linux](https://img.shields.io/badge/Linux-000000?logo=Linux&logoColor=white)
