@@ -17,6 +17,7 @@
 
 ![TYC](img/S-thankyouCHS.png)
 ![TYN](img/S-thankyouNHS.png)
+![HFS](img/hands-face-space.png)
 # Thank you to all the medical workers!
 ---
 ### 👋 Hi there! Here is Kevin CHEN's GitHub.
