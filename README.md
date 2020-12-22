@@ -13,15 +13,20 @@
 ```
 -->
 
-![Dragon](img/ads.jpg)
+<!--![Dragon](img/ads.jpg)-->
 
+![TYC](img/thankyouCHS.png)
+![TYN](img/thankyouNHS.jpg)
+
+# Thank you to all the medical workers!
+---
 ### 👋 Hi there! Here is Kevin CHEN's GitHub.
 ### Now I'm focusing on developing [FastGit](https://fastgit.org) which provides the high-speed github acceleration service. 
 
 [![Mail](https://img.shields.io/badge/Mail-kevin@fastgit.org-008DE4?logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:kevin@fastgit.org)
 [![Mail](https://img.shields.io/badge/Mail-kevin@v2fly.org-cc0099?logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:kevin@v2fly.org)
 [![Mail](https://img.shields.io/badge/Mail-realkevin@tutanota.com-840006?logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:realkevin@tutanota.com)
-[![TG](https://img.shields.io/badge/TG-@NodaYojiro-black?logo=telegram&labelColor=282c34&color=2CA5E0)](htt[s://t.me/NodaYojiro)
+[![TG](https://img.shields.io/badge/TG-@NodaYojiro-black?logo=telegram&labelColor=282c34&color=2CA5E0)](https://t.me/NodaYojiro)
 
 ![FastGit](https://img.shields.io/badge/FastGit-008DE4?logo=Git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DKevinZonda&longCache=true)](https://github.com/KevinZonda?tab=followers)
