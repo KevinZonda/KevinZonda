@@ -15,8 +15,8 @@
 
 <!--![Dragon](img/ads.jpg)-->
 
-![TYC](img/thankyouCHS.png)
-![TYN](img/thankyouNHS.jpg)
+![TYC](img/S-thankyouCHS.png)
+![TYN](img/S-thankyouNHS.png)
 
 # Thank you to all the medical workers!
 ---
