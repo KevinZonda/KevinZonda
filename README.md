@@ -56,7 +56,7 @@
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?logo=NVIDIA&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=Raspberry%20Pi)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white)
-
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 
 <!--[![Visit](https://img.shields.io/badge/dynamic/json?label=Visits&labelColor=282c34&query=%24.KevinZonda&url=https%3A%2F%2Fgist-counter.vercel.app%2Fapi?name=KevinZonda)](https://github.com/KevinZonda)-->
 ---
