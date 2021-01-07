@@ -36,11 +36,13 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=C+Sharp)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-5391FE?logo=PowerShell&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=Xamarin&logoColor=white)
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA#000000&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual+Studio)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual+Studio+Code)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=Xamarin&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=Windows)
 ![Linux](https://img.shields.io/badge/Linux-000000?logo=Linux&logoColor=white)
