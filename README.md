@@ -39,10 +39,15 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-5391FE?logo=PowerShell&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=Xamarin&logoColor=white)
+![Windows 95](https://img.shields.io/badge/Windows%2095-008080?logo=Windows+95)
+![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?logo=Windows+XP)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA#000000&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual+Studio)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual+Studio+Code)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)
+![Gitea](https://img.shields.io/badge/Gitea-609926?logo=Gitea&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=GitHub+Actions&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=Windows)
 ![Linux](https://img.shields.io/badge/Linux-000000?logo=Linux&logoColor=white)
