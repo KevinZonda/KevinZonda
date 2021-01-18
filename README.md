@@ -20,8 +20,9 @@
 ![HFS](img/hands-face-space.png)
 # Thank you to all the medical workers!
 ---
-### 👋 Hi there! Here is Kevin CHEN's GitHub.
-### Now I'm focusing on developing [FastGit](https://fastgit.org) which provides the high-speed github acceleration service. 
+### 👋 Hi there! Here is Kevin CHEN's GitHub. A senior high student who wants to learn computer.
+### 👨‍🎓 Till now, I still cannot master any programming skill. If you want, could you teach me some? I really wanna learn it! Thank you!
+<!-- ### Now I'm focusing on developing [FastGit](https://fastgit.org) which provides the high-speed github acceleration service. -->
 
 [![Mail](https://img.shields.io/badge/Mail-kevin@fastgit.org-008DE4?logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:kevin@fastgit.org)
 [![Mail](https://img.shields.io/badge/Mail-kevin@v2fly.org-cc0099?logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:kevin@v2fly.org)
