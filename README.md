@@ -15,13 +15,10 @@
 
 <!--![Dragon](img/ads.jpg)-->
 
-![TYC](img/S-thankyouCHS_nf.png)
-![TYN](img/S-thankyouNHS.png)
-![HFS](img/hands-face-space.png)
-# Thank you to all the medical workers!
+![HELLO](img/hello2.png)
+![RADIATION](img/radiation.png)
 
 ![](https://raw.githubusercontent.com/KevinZonda/psc/master/profile-summary-card-output/github/0-profile-details.svg)
-
 
 ### 👋 Hi there! Here is Kevin CHEN's GitHub. A senior high student who wants to learn computer.
 ### 👨‍🎓 Till now, I still cannot master any programming skill. If you want, could you teach me some? I really wanna learn it! Thank you!
