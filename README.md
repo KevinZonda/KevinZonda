@@ -32,6 +32,8 @@
 [![FastGit](https://img.shields.io/badge/FastGit-008DE4?logo=Git&logoColor=white)](https://fastgit.org)
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DKevinZonda&longCache=true)](https://github.com/KevinZonda?tab=followers)
 [![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40FastGit&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DFastGit&longCache=true)](https://t.me/fastgit)
+![Windows 95](https://img.shields.io/badge/Windows%2095-008080?logo=Windows+95)
+![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?logo=Windows+XP)
 <br> <!--[![Twitter](https://img.shields.io/twitter/follow/emptyMethod?style=social)](https://twitter.com/emptyMethod)-->
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=C+Sharp)
@@ -39,8 +41,7 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-5391FE?logo=PowerShell&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=Xamarin&logoColor=white)
-![Windows 95](https://img.shields.io/badge/Windows%2095-008080?logo=Windows+95)
-![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?logo=Windows+XP)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=Blazor&logoColor=white)
 <br>
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA#000000&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual+Studio)
