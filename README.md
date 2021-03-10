@@ -37,9 +37,10 @@
 <br> <!--[![Twitter](https://img.shields.io/twitter/follow/emptyMethod?style=social)](https://twitter.com/emptyMethod)-->
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=C+Sharp)
+![PowerShell](https://img.shields.io/badge/Powershell-5391FE?logo=PowerShell&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white)
-![PowerShell](https://img.shields.io/badge/Powershell-5391FE?logo=PowerShell&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=Xamarin&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=Blazor&logoColor=white)
 <br>
