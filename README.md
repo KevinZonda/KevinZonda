@@ -15,8 +15,8 @@
 
 <!--![Dragon](img/ads.jpg)-->
 
-![HELLO](img/hello2.png)
-![RADIATION](img/radiation.png)
+<!--![HELLO](img/hello2.png)
+![RADIATION](img/radiation.png)-->
 
 ![](https://raw.githubusercontent.com/KevinZonda/psc/master/profile-summary-card-output/github/0-profile-details.svg)
 
