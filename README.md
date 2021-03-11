@@ -33,7 +33,6 @@
 [![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40FastGit&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DFastGit&longCache=true)](https://t.me/fastgit)
 ![Windows 95](https://img.shields.io/badge/Windows%2095-008080?logo=Windows+95)
 ![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?logo=Windows+XP)
-<!--[![Twitter](https://img.shields.io/twitter/follow/emptyMethod?style=social)](https://twitter.com/emptyMethod)-->
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=C+Sharp)
 ![PowerShell](https://img.shields.io/badge/Powershell-5391FE?logo=PowerShell&logoColor=white)
@@ -64,6 +63,7 @@
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 
 <!--[![Visit](https://img.shields.io/badge/dynamic/json?label=Visits&labelColor=282c34&query=%24.KevinZonda&url=https%3A%2F%2Fgist-counter.vercel.app%2Fapi?name=KevinZonda)](https://github.com/KevinZonda)-->
+<!--[![Twitter](https://img.shields.io/twitter/follow/emptyMethod?style=social)](https://twitter.com/emptyMethod)-->
 ---
 
 **Proudly develop with ❤️ and .NET**
