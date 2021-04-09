@@ -20,7 +20,7 @@
 
 ![](https://raw.githubusercontent.com/KevinZonda/psc/master/profile-summary-card-output/github/0-profile-details.svg)
 
-### 👋 Hi there! Here is Kevin CHEN's GitHub. A senior high student who wants to learn computer.
+### 👋 Hi there! Here is Laurel Merton's GitHub. A foundation student who wants to learn computer.
 ### 👨‍🎓 Till now, I still cannot master any programming skill. If you want, could you teach me some? I really wanna learn it! Thank you!
 <!-- ### Now I'm focusing on developing [FastGit](https://fastgit.org) which provides the high-speed github acceleration service. -->
 
