@@ -65,10 +65,12 @@
 
 **Proudly develop with ❤️ and .NET**
 
+<!--
 [![InternetExplorerCertification](https://cdn.jsdelivr.net/gh/KevinZonda/KevinZonda@141c70efebef04086195f14e2b6febb8c5a63787/img/IE-Certification.gif)](https://www.microsoft.com/en-gb/download/internet-explorer.aspx)
 ![GPLv3 License](https://www.gnu.org/graphics/gplv3-88x31.png)
 <img src="https://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" width="88" height="31">
 <img style="border:0;width:88px;height:31px" src="https://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!">
+-->
 <!--
 **KevinZonda/KevinZonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
