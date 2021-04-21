@@ -17,8 +17,9 @@
 
 <!--![HELLO](img/hello2.png)
 ![RADIATION](img/radiation.png)-->
-
-![](https://raw.githubusercontent.com/KevinZonda/psc/master/profile-summary-card-output/github/0-profile-details.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/KevinZonda/psc/master/profile-summary-card-output/github/0-profile-details.svg"></img>
+</p>
 
 ### 👋 Hi there! Here is Laurel Merton's GitHub. A foundation student who wants to learn computer.
 ### 👨‍🎓 Till now, I still cannot master any programming skill. If you want, could you teach me some? I really wanna learn it! Thank you!
