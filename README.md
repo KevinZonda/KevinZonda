@@ -17,9 +17,6 @@
 
 <!--![HELLO](img/hello2.png)
 ![RADIATION](img/radiation.png)-->
-<p align="center">
-<img src="https://raw.githubusercontent.com/KevinZonda/psc/master/profile-summary-card-output/github/0-profile-details.svg"></img>
-</p>
 
 [![Mail](https://img.shields.io/badge/Mail-kevin@fastgit.org-008DE4?style=flat-square&logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:kevin@fastgit.org)
 [![Mail](https://img.shields.io/badge/Mail-kevin@v2fly.org-cc0099?style=flat-square&logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:kevin@v2fly.org)
@@ -59,9 +56,6 @@
 
 <!--[![Visit](https://img.shields.io/badge/dynamic/json?label=Visits&labelColor=282c34&query=%24.KevinZonda&url=https%3A%2F%2Fgist-counter.vercel.app%2Fapi?name=KevinZonda)](https://github.com/KevinZonda)-->
 <!--[![Twitter](https://img.shields.io/twitter/follow/LaurelMerton?style=social)](https://twitter.com/emptyMethod)-->
----
-
-**Proudly develop with ❤️ and .NET**
 
 <!--
 [![InternetExplorerCertification](https://cdn.jsdelivr.net/gh/KevinZonda/KevinZonda@141c70efebef04086195f14e2b6febb8c5a63787/img/IE-Certification.gif)](https://www.microsoft.com/en-gb/download/internet-explorer.aspx)
