@@ -28,7 +28,7 @@
 [![Mail](https://img.shields.io/badge/Mail-kevin@fastgit.org-008DE4?style=flat-square&logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:kevin@fastgit.org)
 [![Mail](https://img.shields.io/badge/Mail-kevin@v2fly.org-cc0099?style=flat-square&logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:kevin@v2fly.org)
 [![Mail](https://img.shields.io/badge/Mail-realkevin@tutanota.com-840006?style=flat-square&logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:realkevin@tutanota.com)
-[![Twitter](https://img.shields.io/twitter/follow/LaurelMerton?style=social)](https://twitter.com/emptyMethod)
+[![Twitter](https://img.shields.io/twitter/follow/FailedWaste?style=social)](https://twitter.com/emptyMethod)
 [![TG](https://img.shields.io/badge/TG-@LaurelMerton-black?style=flat-square&logo=telegram&labelColor=282c34&color=2CA5E0)](https://t.me/LaurelMerton)
 [![FastGit](https://img.shields.io/badge/FastGit-008DE4?style=flat-square&logo=Git&logoColor=white)](https://fastgit.org)
 [![PassCore](https://img.shields.io/badge/PassCore-00FF99?style=flat-square&logo=Diaspora&logoColor=white&labelColor=black)](https://passcore.org)
