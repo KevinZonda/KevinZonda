@@ -21,10 +21,6 @@
 <img src="https://raw.githubusercontent.com/KevinZonda/psc/master/profile-summary-card-output/github/0-profile-details.svg"></img>
 </p>
 
-### 👋 Hi there! Here is Laurel Merton's GitHub. A foundation student who wants to learn computer.
-### 👨‍🎓 Till now, I still cannot master any programming skill. If you want, could you teach me some? I really wanna learn it! Thank you!
-<!-- ### Now I'm focusing on developing [FastGit](https://fastgit.org) which provides the high-speed github acceleration service. -->
-
 [![Mail](https://img.shields.io/badge/Mail-kevin@fastgit.org-008DE4?style=flat-square&logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:kevin@fastgit.org)
 [![Mail](https://img.shields.io/badge/Mail-kevin@v2fly.org-cc0099?style=flat-square&logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:kevin@v2fly.org)
 [![Mail](https://img.shields.io/badge/Mail-realkevin@tutanota.com-840006?style=flat-square&logo=Mail.Ru&labelColor=282c34&logoColor=white)](mailto:realkevin@tutanota.com)
