@@ -1,5 +1,6 @@
 ```csharp
 using ADT;
+using System.Linq;
 
 public static class KevinZonda
 {
@@ -16,12 +17,12 @@ public static class KevinZonda
     {
         Emails = new[]
         {
-            "realkevin@tutanota.com",
-            "kevin@fastgit.org",
-            "kevin@v2fly.org",
-            "kevin@alumni.hmuniversity.org",
-            "kevin@is-rbq.com"
-        },
+            "realkevin#tutanota.com",
+            "kevin#fastgit.org",
+            "kevin#v2fly.org",
+            "kevin#alumni.hmuniversity.org",
+            "kevin#is-rbq.com"
+        }.Select(x => x.Replace("#", "@")).ToArray(),
         Others = new()
         {
             { "Telegram", new[] { "KevinZonda"  } }, // https://t.me/KevinZonda
