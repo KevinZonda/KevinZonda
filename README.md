@@ -8,7 +8,7 @@ public class KevinZonda
         Name      = "Kevin CHEN",
         PGP       = "867C 7D44 DFDF 603A C971 8505 6FF4 CDC2 D404 9C0A",
         Gender    = Gender.Male,
-        Location  = "Brighton, Sussex, United Kingdom",
+        Location  = "Brighton, East Sussex, United Kingdom",
         Languages = new[] { "zh-CN", "en-GB" }
     };
 
@@ -25,7 +25,7 @@ public class KevinZonda
         Others = new()
         {
             { "Telegram", new[] { "KevinZonda"  } }, // https://t.me/KevinZonda
-            { "Twitter",  new[] { "FailedWaste" } }  // https://twitter.com/FailedWaste
+            { "Twitter" , new[] { "FailedWaste" } }  // https://twitter.com/FailedWaste
         }
     };
 
