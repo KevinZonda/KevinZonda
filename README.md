@@ -6,27 +6,26 @@ public static class KevinZonda
 {
     public static BasicInfo BasicInfo => new()
     {
-        Name      = "Kevin CHEN",
-        PGP       = "867C 7D44 DFDF 603A C971 8505 6FF4 CDC2 D404 9C0A",
-        Gender    = Gender.Male,
-        Location  = "Brighton, East Sussex, United Kingdom",
-        Languages = new[] { "zh-CN", "en-GB" }
-    };
-
-    public static ContactInfo ContactInfo => new()
-    {
-        Emails = new[]
+        Name        = "Kevin CHEN",
+        PGP         = "867C 7D44 DFDF 603A C971 8505 6FF4 CDC2 D404 9C0A",
+        Gender      = Gender.Male,
+        Location    = "Brighton, East Sussex, United Kingdom",
+        Languages   = new[] { "zh-CN", "en-GB" },
+        ContactInfo = new()
         {
-            "realkevin#tutanota.com",
-            "kevin#fastgit.org",
-            "kevin#v2fly.org",
-            "kevin#alumni.hmuniversity.org",
-            "kevin#is-rbq.com"
-        }.Select(x => x.Replace("#", "@")).ToArray(),
-        Others = new()
-        {
-            { "Telegram", new[] { "KevinZonda"  } }, // https://t.me/KevinZonda
-            { "Twitter" , new[] { "FailedWaste" } }  // https://twitter.com/FailedWaste
+            Emails = new[]
+            {
+                "realkevin#tutanota.com",
+                "kevin#fastgit.org",
+                "kevin#v2fly.org",
+                "kevin#alumni.hmuniversity.org",
+                "kevin#is-rbq.com"
+            }.Select(x => x.Replace("#", "@")).ToArray(),
+            Others = new()
+            {
+                { "Telegram", new[] { "KevinZonda"  } }, // https://t.me/KevinZonda
+                { "Twitter" , new[] { "FailedWaste" } }  // https://twitter.com/FailedWaste
+            }
         }
     };
 
