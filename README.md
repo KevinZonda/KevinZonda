@@ -1,9 +1,9 @@
 ```csharp
 using ADT;
 
-public class KevinZonda
+public static class KevinZonda
 {
-    public static BasicInfo BasicInfo { get; } = new()
+    public static BasicInfo BasicInfo => new()
     {
         Name      = "Kevin CHEN",
         PGP       = "867C 7D44 DFDF 603A C971 8505 6FF4 CDC2 D404 9C0A",
@@ -12,7 +12,7 @@ public class KevinZonda
         Languages = new[] { "zh-CN", "en-GB" }
     };
 
-    public static ContactInfo ContactInfo { get; } = new()
+    public static ContactInfo ContactInfo => new()
     {
         Emails = new[]
         {
@@ -29,7 +29,7 @@ public class KevinZonda
         }
     };
 
-    public static DevInfo DevInfo { get; } = new()
+    public static DevInfo DevInfo => new()
     {
         Environments = new[] { "Windows10x64", "Debian10x64" },
         Tools        = new[] { "IDEA", "Rider", "Visual Studio 2017", "Visual Studio Code" },
