@@ -1,3 +1,4 @@
+![](img/banner-x.png)
 ```csharp
 using ADT;
 using System.Linq;
