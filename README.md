@@ -1,5 +1,3 @@
-# HHH
-
 ![](img/banner-x.png)
 ```csharp
 using ADT;
