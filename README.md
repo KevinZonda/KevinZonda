@@ -8,9 +8,9 @@
 学术乞丐，皇家鸽舞团成员，擅长学术坟墓中坟头蹦迪。  
 精神 Kevin 壬。  
 深夜说胡话警告 ⚠。  
-高考语文数学不及格，英语正好及格线，物理化学都是C，以至于没有学上。  
+高考语文数学不及格，英语正好及格线，物理化学都刚刚好，以至于没学上。  
 不要问我英文好不好，雅思 5.5。  
-GPA Last 5%.  
+GPA 0/100 (or 0.0/4.3), Rank last 5% ([Maths&Logic](https://www.cs.bham.ac.uk/internal/modules/2021/06-35324/) Rank 404/404, [OOP](https://www.cs.bham.ac.uk/internal/modules/2021/06-34229/) Rank 452/452, [DSA](https://www.cs.bham.ac.uk/internal/modules/2021/06-30175/) Rank 450/450).  
 精神法国人（`sudo rm -fR /`）
 
 ---
