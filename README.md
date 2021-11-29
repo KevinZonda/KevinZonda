@@ -31,6 +31,8 @@ Coding = Copying + Paraphrasing = Plagiarising
 
 PCR + IgM + Isolation as a Service.
 
+BrE in operation. [Mind the gap](https://www.youtube.com/watch?v=96SrowhQyjM) between the GB and the US. The next station is CA.
+
 Anti-vaxxers are terrorism.
 
 [^1]: 抄袭自 StudentMain https://github.com/studentmain/studentmain/blob/ffaeff405cb88bf482c8428fdfeecb37b572b8df/README.md?plain=1#L18
