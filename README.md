@@ -31,7 +31,7 @@ Coding = Copying + Paraphrasing = Plagiarising
 
 PCR + IgM + Isolation as a Service.
 
-BrE in operation. [Mind the gap](https://www.youtube.com/watch?v=A46OzKOcTmw) between the [GB](https://www.wikiwand.com/en/British_English) and the [US](https://www.wikiwand.com/en/American_English). The next station is [CA](https://www.wikiwand.com/en/Canadian_English). Change for the National Chinese sevices from Change Cross.
+This is BrE in operation. The next station is [CA](https://www.wikiwand.com/en/Canadian_English). Change for the National Chinese sevices from Change Cross. [Mind the gap](https://www.youtube.com/watch?v=A46OzKOcTmw) between the [GB](https://www.wikiwand.com/en/British_English) and the [US](https://www.wikiwand.com/en/American_English).
 
 Anti-vaxxers are terrorism.
 
