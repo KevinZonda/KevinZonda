@@ -1,41 +1,36 @@
 ![](img/banner-x.png)
-```csharp
-using ADT;
-using System.Linq;
 
-public static class KevinZonda
-{
-    public static BasicInfo BasicInfo => new()
-    {
-        Name        = "Kevin CHEN",
-        PGP         = "867C 7D44 DFDF 603A C971 8505 6FF4 CDC2 D404 9C0A",
-        Gender      = Gender.Male,
-        Location    = "Birmingham, West Midlands, United Kingdom",
-        Languages   = new[] { "zh-CN", "en-GB" },
-        ContactInfo = new()
-        {
-            Emails = new[]
-            {
-                "realkevin#tutanota.com",
-                "kevin#fastgit.org",
-                "kevin#v2fly.org",
-                "kevin#alumni.hmuniversity.org",
-                "kevin#is-rbq.com"
-            }.Select(x => x.Replace("#", "@")).ToArray(),
-            Others = new()
-            {
-                { "Telegram", new[] { "KevinZonda"  } }, // https://t.me/KevinZonda
-                { "Twitter" , new[] { "FailedWaste" } }  // https://twitter.com/FailedWaste
-            }
-        }
-    };
+<https://github.com/KevinZonda>  
+<https://KevinZonda.com>  
+<https://twitter.com/FailedWaste>  
+<https://t.me/KevinZonda>
 
-    public static DevInfo DevInfo => new()
-    {
-        Environments = new[] { "Windows10x64", "Debian10x64" },
-        Tools        = new[] { "IDEA", "Rider", "Visual Studio 2017", "Visual Studio Code" },
-        Languages    = new[] { "C#", "Go", "Java" },
-        Projects     = new[] { "FastGit UK", "PassCore" }
-    };
-}
-```
+学术乞丐，皇家鸽舞团成员，擅长学术坟墓中坟头蹦迪。  
+精神 Kevin 壬。  
+深夜说胡话警告 ⚠。  
+高考语文数学不及格，英语正好及格线，物理化学都是C，以至于没有学上。  
+不要问我英文好不好，雅思 5.5。  
+GPA Last 5%.  
+精神法国人（`sudo rm -fR /`）
+
+---
+
+基于物联网大数据的海平面高度与沿海地区健美操教学
+
+只要 Github 无人使用，那么 GitHub 就不会宕机
+
+子非燕雀，安知燕雀不知鸿鹄之志[^1]
+
+大家努努力，把公司干倒闭
+
+我喜欢你，我们贴贴吧！
+
+我是傻逼，请给我打钱
+
+Coding = Copying + Paraphrasing = Plagiarising
+
+PCR + IgM + Isolation as a Service.
+
+Anti-vaxxers are terrorism.
+
+[^1]: 抄袭自 StudentMain https://github.com/studentmain/studentmain/blob/ffaeff405cb88bf482c8428fdfeecb37b572b8df/README.md?plain=1#L18
