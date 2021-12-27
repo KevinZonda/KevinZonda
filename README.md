@@ -18,6 +18,8 @@ GPA 0/100 (or 0.0/4.3), Rank last 5% ([Maths&Logic](https://www.cs.bham.ac.uk/in
 
 [`an|d`](img/and.jpg)
 
+[关于弘扬民族传统文化禁止过洋节的通知](img/Xmas.jpg)
+
 大学也就图一乐，学真知识还得靠带专。
 
 基于物联网大数据的海平面高度与沿海地区健美操教学
