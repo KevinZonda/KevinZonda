@@ -18,9 +18,20 @@ GPA 0/100 (or 0.0/4.3), Rank last 5% ([Maths&Logic](https://www.cs.bham.ac.uk/in
 
 ---
 
-[`an|d`](img/and.jpg)
+<p><details>
+<summary><code>an|d</code></summary>
+<img src="img/and.jpg"></img>
+</details></p>
 
-[关于弘扬民族传统文化禁止过洋节的通知](img/Xmas.jpg)
+<p><details>
+<summary>关于弘扬民族传统文化禁止过洋节的通知</summary>
+<img src="img/Xmas.jpg"></img>
+</details></p>
+
+<p><details>
+<summary>关于新冠高危风险地区的紧急医疗事件处理方法</summary>
+<img src="img/Xian.jpg"></img>
+</details></p>
 
 大学也就图一乐，学真知识还得靠带专。
 
