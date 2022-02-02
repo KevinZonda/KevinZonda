@@ -2,6 +2,9 @@
 
 ![](img/banner-2021.png)
 
+> Every time we do get something we reduce by a measurable amount the opportunity to get that something in the future, until ultimately the time will come when there will be no more "getting."  
+> ── *LINDSAY, R. B. (1959). ENTROPY CONSUMPTION AND VALUES IN PHYSICAL SCIENCE. American Scientist*
+
 <https://github.com/KevinZonda>  
 <https://KevinZonda.com>  
 <https://twitter.com/FailedWaste>  
@@ -33,15 +36,15 @@ GPA 0/100 (or 0.0/4.3), Rank last 5% ([Maths&Logic](https://www.cs.bham.ac.uk/in
 <img src="img/Xian.jpg"></img>
 </details></p>-->
 
+[基于物联网大数据的海平面高度与沿海地区健美操教学](https://link.springer.com/article/10.1007/s12517-021-07748-2)
+
 大学也就图一乐，学真知识还得靠带专。
 
-基于物联网大数据的海平面高度与沿海地区健美操教学
+有人能给我个Debian的激活码吗？破解工具用不了
 
 只要 GitHub 无人使用，那么 GitHub 就不会宕机
 
 子非燕雀，安知燕雀不知鸿鹄之志[^1]
-
-大家努努力，把公司干倒闭
 
 我喜欢你，我们贴贴吧！
 
