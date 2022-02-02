@@ -23,7 +23,7 @@ GPA 0/100 (or 0.0/4.3), Rank last 5% ([Maths&Logic](https://www.cs.bham.ac.uk/in
 <img src="img/and.jpg"></img>
 </details></p>
 
-<p><details>
+<!--<p><details>
 <summary>关于弘扬民族传统文化禁止过洋节的通知</summary>
 <img src="img/Xmas.jpg"></img>
 </details></p>
@@ -31,13 +31,13 @@ GPA 0/100 (or 0.0/4.3), Rank last 5% ([Maths&Logic](https://www.cs.bham.ac.uk/in
 <p><details>
 <summary>关于新冠高危风险地区的紧急医疗事件处理方法</summary>
 <img src="img/Xian.jpg"></img>
-</details></p>
+</details></p>-->
 
 大学也就图一乐，学真知识还得靠带专。
 
 基于物联网大数据的海平面高度与沿海地区健美操教学
 
-只要 Github 无人使用，那么 GitHub 就不会宕机
+只要 GitHub 无人使用，那么 GitHub 就不会宕机
 
 子非燕雀，安知燕雀不知鸿鹄之志[^1]
 
@@ -50,8 +50,6 @@ GPA 0/100 (or 0.0/4.3), Rank last 5% ([Maths&Logic](https://www.cs.bham.ac.uk/in
 Coding = Copying + Paraphrasing = Plagiarising
 
 PCR + IgM + Isolation as a Service.
-
-This is BrE in operation. The next station is [CA](https://www.wikiwand.com/en/Canadian_English). Change for the National Chinese sevices from Change Cross. [Mind the gap](https://www.youtube.com/watch?v=A46OzKOcTmw) between the [GB](https://www.wikiwand.com/en/British_English) and the [US](https://www.wikiwand.com/en/American_English).
 
 Anti-vaxxers are terrorism.
 
