@@ -24,6 +24,10 @@ Some links:
 - PL: I am creating my own language following some instructions
 - SE: I am quite passionate about it and practicing it
 
+## Some badges
+
+![](https://www.codewars.com/users/KevinZonda/badges/large)
+
 ## Contact Me
 
 Please feel free to contact me with any kind of following ways:
