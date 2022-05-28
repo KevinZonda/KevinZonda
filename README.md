@@ -11,12 +11,14 @@ Some links:
 
 ## About Me
 
-- I am a _B.Sc. Computer Science student @ University of Birmingham_
+- I am a _Year 1 B.Sc. Computer Science student @ University of Birmingham_
+- ~~I will look for a PhD position 1.5 years later~~
 - I am currently working as a _Backend Dev & Backend Dev Manager @ Treehollow_
-- I use _C#_ and _Golang_
+- I have _basic understanding_ and _beginner's experience_ on  _C#_ and _Golang_
 - I use _Visual Studio_, _Goland_, _Rider_ and _IdeaJ_ as my IDEs
 - I use _Windows 10 x64_, _Debian x64_ and _Manjaro x64_ as my system environment
 - I love business laptops, therefore I work with my favourate _ThinkPad X1 Yoga Gen 6_, _Lenovo Yoga Slim 7 Pro (14'' AMD)_ and _MSI GS66 2020_ (as workstation)
+
 
 ## My Interest
 
