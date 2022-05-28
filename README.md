@@ -27,9 +27,10 @@ Some links:
 
 ## My Interest
 
-- ML & AI: currently learning it
-- PL: I am creating my own language following some instructions
-- SE: I am quite passionate about it and practicing it
+- Machine Learning & Artificial Inteligent: currently learning it
+- Programming Language: I am creating my own language following some instructions
+- Software Engineer: I am quite passionate about it and practicing it
+- Other: interested at _Mathematics_, _Public Health_ and _Epidemiology_, may try to get _MPH/PGDip/PGCert_ degree after finishing CS courses
 
 ## Some badges
 
