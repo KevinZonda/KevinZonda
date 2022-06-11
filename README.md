@@ -34,6 +34,7 @@ Some links:
 
 ## Some badges
 
+![](https://skillicons.dev/icons?i=arduino,raspberrypi,azure,github,twitter,cloudflare,linux,dotnet,cs,go,java,powershell,visualstudio,idea,vscode,docker,postgres,redis)
 ![](https://www.codewars.com/users/KevinZonda/badges/large)
 
 ## Contact Me
