@@ -11,7 +11,7 @@ Some links:
 
 ## About Me
 
-- I am a _First Year B.Sc. Computer Science student @ University of Birmingham_
+- I am a _Second Year B.Sc. Computer Science student @ University of Birmingham_
 - ~~I will look for a PhD position 1.5 years later~~
 - I am currently working as a _Backend Dev & Backend Dev Manager @ Treehollow_
 - I have _basic understanding_ and _beginner's experience_ on  _C#_ and _Golang_, i.e. you can assume that I can't code
