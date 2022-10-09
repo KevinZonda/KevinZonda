@@ -21,8 +21,9 @@ Some links:
 - I can't _regex_, _html_, _css_ and _JavaScript_, I feel sorry about this (but can do a little _TypeScript_)
 - I use _Visual Studio_, _Goland_, _Rider_ and _IdeaJ_ as my IDEs, and _git_ as VCS
 - I use _Windows 10 x64_, _Debian x64_ and _Manjaro x64_ as my system environment ~~, BTW, I don't use Arch~~
-- I love business laptops, therefore I work with my favourate _ThinkPad X1 Yoga Gen 6_,
-  _Lenovo Yoga Slim 7 Pro (14'' AMD)_ and _MSI GS66 2020_ (as workstation) (Ordered by frequency of use)
+- I love business laptops, therefore I work with my favourate ~~_ThinkPad X1 Yoga Gen 6_~~ (Fine, broken 3 times
+  less than 1 year, so no more), _Lenovo Yoga Slim 7 Pro (14'' AMD)_ and _MSI GS66 2020_ (as workstation)
+  (Ordered by frequency of use)
 
 
 ## My Interest
