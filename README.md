@@ -43,4 +43,5 @@ Some links:
 Please feel free to contact me with any kind of following ways:
 
 - [Email: realkevin{AT}tutanota.com](mailto:realkevin@tutanota.com)
-- [Telegram @KevinZ0nda](https://t.me/KevinZ0nda)
+- [Email: hi{AT}kevinzonda.com](mailto:hi@kevinzonda.com)
+- [Telegram@KevinZondaGroup](https://t.me/KevinZondaGroup)
