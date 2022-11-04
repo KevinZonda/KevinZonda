@@ -22,7 +22,7 @@ Some links:
 - I use _Visual Studio_, _Goland_, _Rider_ and _IdeaJ_ as my IDEs, and _git_ as VCS
 - I use _Windows 10 x64_, _Debian x64_ and _Manjaro x64_ as my system environment ~~, BTW, I don't use Arch~~
 - I love business laptops, therefore I work with my favourate ~~_ThinkPad X1 Yoga Gen 6_~~ (Fine, broken 3 times
-  less than 1 year, so no more), _Lenovo Yoga Slim 7 Pro (14'' AMD)_ and _MSI GS66 2020_ (as workstation)
+  less than 1 year, so no more apply), _MacBook Air 2022 (M2)_, _Lenovo Yoga Slim 7 Pro (14'' AMD)_ and _MSI GS66 2020_ (as workstation)
   (Ordered by frequency of use)
 
 
@@ -30,7 +30,7 @@ Some links:
 
 - Machine Learning & Artificial Inteligent: currently learning it
 - Programming Language: I am creating my own language following some instructions
-- Software Engineer: I am quite passionate about it and practicing it
+- Programming: I am quite passionate about it and practicing it
 - Other: interested at _Mathematics_, _Public Health_ and _Epidemiology_, may try to get _MPH/PGDip/PGCert_ degree after finishing CS courses
 
 ## Some badges
