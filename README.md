@@ -6,7 +6,7 @@
 Some links:
 [GitHub](https://github.com/KevinZonda)
 [Website](https://KevinZonda.com)
-[Twitter](https://twitter.com/FailedWaste)
+[Twitter](https://twitter.com/toncoin_cn)
 [Telegram](https://t.me/KevinZonda)
 
 ## About Me
@@ -23,7 +23,9 @@ Some links:
 - I use _Windows 10 x64_, _Debian x64_ and _Manjaro x64_ as my system environment ~~, BTW, I don't use Arch~~
 - I prefer thinner items, therefore business laptops would have higher probability to be chosen. I work with
   my favourate ~~_ThinkPad X1 Yoga Gen 6_~~ (Fine, broken 3 times less than 1 year, so no more apply), _MacBook
-  Air 2022 (M2)_, _Lenovo Yoga Slim 7 Pro (14'' AMD)_ and _MSI GS66 2020_ (as workstation) (Ordered by frequency of use)
+  Air 2022 (M2)_, _Lenovo Yoga Slim 7 Pro (14'' AMD)_ as _CLC (Central Linux Compiler, see also
+  [CLC | KevinZonda](https://compiler.kevinzonda.com))_ ~~and _MSI GS66 2020_ (retired)~~ (Ordered by frequency
+  of use)
 
 
 ## My Interest
@@ -42,6 +44,8 @@ Some links:
 
 Please feel free to contact me with any kind of following ways:
 
-- [Email: realkevin{AT}tutanota.com](mailto:realkevin@tutanota.com)
-- [Email: hi{AT}kevinzonda.com](mailto:hi@kevinzonda.com)
+- [Email: realkevin{AT}tutanota.com](mailto:realkevin@tutanota.com) as _Primary Personal Email_
+- [Email: hi{AT}kevinzonda.com](mailto:hi@kevinzonda.com) as _Domain Personal Email_
+- [Email: kevin{AT}limit.dev](mailto:kevin@limit.dev) if you want to talk about _limit.dev_, as _Work Purpose_
+- [Email: ******{AT}student.bham.ac.uk]() as _Education Email_
 - [Telegram@KevinZondaGroup](https://t.me/KevinZondaGroup)
