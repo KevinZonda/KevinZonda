@@ -47,5 +47,5 @@ Please feel free to contact me with any kind of following ways:
 - [Email: realkevin{AT}tutanota.com](mailto:realkevin@tutanota.com) as _Primary Personal Email_
 - [Email: hi{AT}kevinzonda.com](mailto:hi@kevinzonda.com) as _Domain Personal Email_
 - [Email: kevin{AT}limit.dev](mailto:kevin@limit.dev) if you want to talk about _limit.dev_, as _Work Purpose_
-- [Email: ******{AT}student.bham.ac.uk]() as _Education Email_
+- [Email: ******{AT}student.bham.ac.uk]() as _Academical Purpose_
 - [Telegram@KevinZondaGroup](https://t.me/KevinZondaGroup)
