@@ -19,10 +19,10 @@ Some links:
   and am current doing _Cassandra_ and _MongoDB_ with _gorm_
 - I speak _Mandarin (zh-CN)_, _British English (en-GB)_, _Chinglish (en-CN)_ and quite bit _Cantonese (zh-HK)_
 - I can't _regex_, _html_, _css_ and _JavaScript_, I feel sorry about this (but can do a little _TypeScript_)
-- I use _Visual Studio_, _Goland_, _Rider_ and _IdeaJ_ as my IDEs, and _git_ as VCS
-- I use _Windows 10 x64_, _Debian x64_ and _Manjaro x64_ as my system environment ~~, BTW, I don't use Arch~~
+- I use _Visual Studio_, _Goland_, _Rider_, _IDEA_, _CLion_ & _QtCreatoe_ as my IDEs, and _git_ as VCS
+- I use _macOS arm_, _Windows 10 x64_, _Debian x64_ and _Manjaro x64_ as my system environment ~~, BTW, I don't use Arch~~
 - I prefer thinner items, therefore business laptops would have higher probability to be chosen. I work with
-  my favourate ~~_ThinkPad X1 Yoga Gen 6_~~ (Fine, broken 3 times less than 1 year, so no more apply), _MacBook
+  my favourate ~~_ThinkPad X1 Yoga Gen 6_~~ (broken 4 times in 1 year, retired), _MacBook
   Air 2022 (M2)_, _Lenovo Yoga Slim 7 Pro (14'' AMD)_ as _CLC (Central Linux Compiler, see also
   [CLC | KevinZonda](https://compiler.kevinzonda.com))_ ~~and _MSI GS66 2020_ (retired)~~ (Ordered by frequency
   of use)
@@ -46,6 +46,6 @@ Please feel free to contact me with any kind of following ways:
 
 - [Email: realkevin{AT}tutanota.com](mailto:realkevin@tutanota.com) as _Primary Personal Email_
 - [Email: hi{AT}kevinzonda.com](mailto:hi@kevinzonda.com) as _Domain Personal Email_
-- [Email: kevin{AT}limit.dev](mailto:kevin@limit.dev) if you want to talk about _limit.dev_, as _Work Purpose_
-- [Email: ******{AT}student.bham.ac.uk]() as _Academical Purpose_
+- [Email: kevin{AT}limit.dev](mailto:kevin@limit.dev) if you want to talk about _limit.dev_, for _Work Purpose Only_
+- [Email: ******{AT}student.bham.ac.uk]() for _Academical Purpose Only_
 - [Telegram@KevinZondaGroup](https://t.me/KevinZondaGroup)
