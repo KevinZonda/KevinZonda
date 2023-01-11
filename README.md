@@ -22,7 +22,7 @@ Some links:
 - I use _Visual Studio_, _Goland_, _Rider_, _IDEA_, _CLion_ & _QtCreator_ as my IDEs, and _git_ as VCS
 - I use _macOS arm_, _Windows 10 x64_, _Debian x64_ and _Manjaro x64_ as my system environment ~~, BTW, I don't use Arch~~
 - I prefer thinner items, therefore business laptops would have higher probability to be chosen. I work with
-  my favourate ~~_ThinkPad X1 Yoga Gen 6_~~ (broken 4 times in 1 year, retired), _MacBook
+  ~~_ThinkPad X1 Yoga Gen 6_~~ (broken 4 times in 1 year, retired), _MacBook
   Air 2022 (M2)_, _Lenovo Yoga Slim 7 Pro (14'' AMD)_ as _CLC (Central Linux Compiler, see also
   [CLC | KevinZonda](https://compiler.kevinzonda.com))_ ~~and _MSI GS66 2020_ (retired)~~ (Ordered by frequency
   of use)
