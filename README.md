@@ -13,7 +13,7 @@ Some links:
 
 - I am a _Second Year B.Sc. Computer Science student @ University of Birmingham_
 - ~~I may look for a PhD position 1.5 years later~~
-- I am currently working as _Architect & Dev @ Treehollow_
+- I am currently working as _Product Manager @ Limit-LAB_ & _Architect & Dev @ Treehollow_
 - I have _basic understanding_ and _beginner's experience_ on  _C#_ and _Golang_, i.e. you can assume that I can't code
 - I have an _entry level understanding_ of _RDBMS_ (e.g. _MySQL_ and _PostgreSQL_) and _NoSQL_ (e.g. _Redis_),
   and am current doing _Cassandra_ and _MongoDB_ with _gorm_
