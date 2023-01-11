@@ -19,7 +19,7 @@ Some links:
   and am current doing _Cassandra_ and _MongoDB_ with _gorm_
 - I speak _Mandarin (zh-CN)_, _British English (en-GB)_, _Chinglish (en-CN)_ and quite bit _Cantonese (zh-HK)_
 - I can't _regex_, _html_, _css_ and _JavaScript_, I feel sorry about this (but can do a little _TypeScript_)
-- I use _Visual Studio_, _Goland_, _Rider_, _IDEA_, _CLion_ & _QtCreatoe_ as my IDEs, and _git_ as VCS
+- I use _Visual Studio_, _Goland_, _Rider_, _IDEA_, _CLion_ & _QtCreator_ as my IDEs, and _git_ as VCS
 - I use _macOS arm_, _Windows 10 x64_, _Debian x64_ and _Manjaro x64_ as my system environment ~~, BTW, I don't use Arch~~
 - I prefer thinner items, therefore business laptops would have higher probability to be chosen. I work with
   my favourate ~~_ThinkPad X1 Yoga Gen 6_~~ (broken 4 times in 1 year, retired), _MacBook
