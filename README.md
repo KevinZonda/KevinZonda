@@ -37,7 +37,7 @@ Some links:
 
 ## Some badges
 
-![](https://skillicons.dev/icons?i=arduino,raspberrypi,azure,github,twitter,cloudflare,linux,dotnet,cs,go,java,powershell,bash,c,visualstudio,idea,vscode,vim,neovim,docker,postgres,mysql,nginx,postman,redis,git,github,githubactions)
+![](https://skillicons.dev/icons?i=arduino,raspberrypi,azure,github,twitter,cloudflare,linux,dotnet,cs,go,java,qt,powershell,bash,c,visualstudio,idea,vscode,vim,neovim,docker,postgres,mysql,nginx,postman,redis,git,github,githubactions)
 ![](https://www.codewars.com/users/KevinZonda/badges/large)
 
 ## Contact Me
