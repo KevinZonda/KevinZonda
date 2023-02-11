@@ -1,4 +1,4 @@
-![](img/banner-2021.png)
+[![](img/banner-2021.png)](https://github.com/KevinZonda)
 
 > Every time we do get something we reduce by a measurable amount the opportunity to get that something in the future, until ultimately the time will come when there will be no more "getting."  
 > ── *LINDSAY, R. B. (1959). ENTROPY CONSUMPTION AND VALUES IN PHYSICAL SCIENCE. American Scientist*
@@ -37,7 +37,7 @@ Some links:
 
 ## Some badges
 
-![](https://skillicons.dev/icons?i=arduino,raspberrypi,azure,github,twitter,cloudflare,linux,dotnet,cs,go,java,powershell,visualstudio,idea,vscode,docker,postgres,redis)
+![](https://skillicons.dev/icons?i=arduino,raspberrypi,azure,github,twitter,cloudflare,linux,dotnet,cs,go,java,powershell,bash,c,visualstudio,idea,vscode,vim,neovim,docker,postgres,mysql,nginx,postman,redis,git,github,githubactions)
 ![](https://www.codewars.com/users/KevinZonda/badges/large)
 
 ## Contact Me
