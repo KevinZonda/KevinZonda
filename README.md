@@ -11,8 +11,8 @@ Some links:
 
 ## About Me
 
-- I am a _Second Year B.Sc. Computer Science student @ University of Birmingham_
-- ~~I may look for a PhD position 1.5 years later~~
+- I am a _Third Year B.Sc. Computer Science student @ University of Birmingham_
+- ~~I may look for a PhD position 1 years later~~
 - I am currently working as **_CPO @ Limit-LAB_**. ex. _Architect & Dev @ Treehollow_
 - I have _basic understanding_ and _beginner's experience_ on  **_C#_** and **_golang_**, i.e. you can assume that I can't code
 - I have an _entry level understanding_ of _RDBMS_ (e.g. **_MySQL_** and **_PostgreSQL_**) and _NoSQL_ (e.g. **_Redis_**),
