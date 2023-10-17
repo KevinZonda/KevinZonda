@@ -23,7 +23,7 @@ Some links:
 - I use **_macOS arm64_**, ~~_Windows 10 x64_~~, _Debian x64_, _Ubuntu x64/arm64_ and _Manjaro x64_ as my system environment ~~, BTW, I don't use Arch~~.
 - I prefer thinner items, therefore business laptops would have higher probability to be chosen. I work with
   ~~_ThinkPad X1 Yoga Gen 6_~~ (broken 4 times in 1 year, retired), **_MacBook
-  Air 2022 (M2)_**, _Lenovo Yoga Slim 7 Pro (14'' AMD)_ as _KRE (KevinZonda Research EndPoint)_ ~~and _MSI GS66 2020_ (retired)~~ (Ordered by frequency
+  Air 2022 (M2)_**, **_DELL XPS 13 9370_**, _Lenovo Yoga Slim 7 Pro (14'' AMD)_ as KFCU (KevinZonda Fibre Compute Unit)_ ~~and _MSI GS66 2020_ (retired)~~ (Ordered by frequency
   of use)
 
 
