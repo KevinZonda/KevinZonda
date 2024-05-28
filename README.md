@@ -46,12 +46,11 @@ title: KevinZonda's Learning Pathway
 ---
 flowchart LR
   subgraph UOB[U BHAM B.Sc. Computer Science]
-    direction TB
+    direction LR
     NTHU_OS[NTHU 10501: Operating System]
     S_CVDL[Stanford CS 231n: <br>Deep Learning for Computer Vision]
     S_NLP[Stanford CS 124: <br>From Languages to Information]
-    NTHU_OS ~~~ S_CVDL
-    S_CVDL ~~~ S_NLP
+
   end
 
   subgraph OX_M_Y1["U OX B.A. Mathematics Y1 (Prelims) (Self-Study)"]
@@ -66,7 +65,7 @@ flowchart LR
   
   PKU_MathAnalysis[PKU: Mathematics Analysis]
   
-  NTHU_Parallel[NTHU 10710：Parallel Computing]
+  NTHU_Parallel[NTHU 10710: Parallel Computing]
   CMU_Parallel[CMU 15418: <br>Parallel Computer Architecture and Programming<br>Stanford CS 149: Parallel Computing]
   NTHU_Parallel -.- CMU_Parallel
   MIT_DistSys[MIT6.824：Distributed System]
