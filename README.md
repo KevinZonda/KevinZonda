@@ -54,7 +54,7 @@ flowchart LR
     S_CVDL ~~~ S_NLP
   end
 
-  subgraph OX_M_Y1["U OX B.A. Mathematics Y1 (Prelims)"]
+  subgraph OX_M_Y1["U OX B.A. Mathematics Y1 (Prelims) (自学)"]
     subgraph OX_M_Y1_T1[Michaelmas Term]
       direction TB
       OX_IntroUniMath[OX: Introduction to<br>University Mathematics]
