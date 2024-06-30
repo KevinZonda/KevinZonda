@@ -11,9 +11,8 @@ Some links:
 
 ## About Me
 
-- I am a _Third Year B.Sc. Computer Science student @ University of Birmingham_
-- ~~I may look for a PhD position 1 years later~~
-- I am currently working as **_CPO @ Limit-LAB_**. ex. _Architect & Dev @ Treehollow_
+- I just finished my undergraduate at the _University of Birmingham_ with _B.Sc. Computer Science with Hornours, Class I_, **First Class Hornours, GPA 4.25, Weighted Overall 77.625%**.
+- I previously worked as **_CPO @ Limit-LAB_** and _Architect & Dev @ Treehollow_.
 - I have _understanding_ and _experience_ on **_Go_** and **C#**. I also work with _Java_, _Python_, _C_, _Powershell_, etc.
 - I also have _experience_ on _RDBMS_ (e.g. **_MySQL_** and **_PostgreSQL_**) and _NoSQL_ (e.g. **_Redis_**).
   and am current doing _Cassandra_ and _MongoDB_ with _gorm_
