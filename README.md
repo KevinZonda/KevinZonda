@@ -35,7 +35,7 @@ Some links:
 
 ## Some badges
 
-![](https://skillicons.dev/icons?i=arduino,raspberrypi,azure,github,twitter,cloudflare,linux,go,dotnet,cs,python,java,qt,powershell,bash,c,ts,pytorch,tensorflow,idea,visualstudio,vscode,vim,neovim,docker,postgres,mysql,nginx,postman,redis,git,github,githubactions)
+![](https://skillicons.dev/icons?i=arduino,raspberrypi,azure,github,twitter,cloudflare,apple,linux,debian,mint,windows,go,dotnet,cs,python,java,qt,powershell,bash,c,ts,solidity,react,pnpm,vite,pytorch,tensorflow,opencv,idea,rider,pycharm,clion,visualstudio,vscode,vim,neovim,docker,postgres,mysql,nginx,postman,redis,git,github,githubactions)
 ![](https://www.codewars.com/users/KevinZonda/badges/large)
 
 ## My Current Learning Pathway
