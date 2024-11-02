@@ -89,7 +89,7 @@ Please feel free to contact me with any kind of following ways:
 
 - [Email: realkevin{AT}tutanota.com](mailto:realkevin@tutanota.com) as _Primary Personal Email_
 - [Email: hi{AT}kevinzonda.com](mailto:hi@kevinzonda.com) as _Domain Personal Email_
-- [Email: ******{AT}alumni.bham.ac.uk]() for _Academical Purpose Only_
+- [Email: ******{AT}ic.ac.uk]() for _Academical Purpose Only_
 - [Telegram@KevinZondaGroup](https://t.me/KevinZondaGroup)
 
 (replace `{AT}` by `@`)
