@@ -1,5 +1,3 @@
-[![](img/banner-imperial.png)](https://github.com/KevinZonda)
-
 > Every time we do get something we reduce by a measurable amount the opportunity to get that something in the future, until ultimately the time will come when there will be no more "getting."  
 > ── *LINDSAY, R. B. (1959). ENTROPY CONSUMPTION AND VALUES IN PHYSICAL SCIENCE. American Scientist*
 
