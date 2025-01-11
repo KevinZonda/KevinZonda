@@ -36,51 +36,6 @@ Some links:
 ![](https://skillicons.dev/icons?i=arduino,raspberrypi,azure,github,twitter,cloudflare,apple,linux,debian,mint,windows,go,dotnet,cs,python,java,qt,powershell,bash,c,ts,solidity,react,pnpm,vite,pytorch,tensorflow,opencv,idea,rider,pycharm,clion,visualstudio,vscode,vim,neovim,docker,postgres,mysql,nginx,postman,redis,git,github,githubactions)
 ![](https://www.codewars.com/users/KevinZonda/badges/large)
 
-## My Current Learning Pathway
-
-```mermaid
----
-title: KevinZonda's Learning Pathway
----
-flowchart LR
-  subgraph UOB[U BHAM B.Sc. Computer Science]
-    direction LR
-    NTHU_OS[NTHU 10501: Operating System]
-    S_CVDL[Stanford CS 231n: <br>Deep Learning for Computer Vision]
-    S_NLP[Stanford CS 124: <br>From Languages to Information]
-
-  end
-
-  subgraph OX_M_Y1["U OX B.A. Mathematics Y1 (Prelims) (Self-Study)"]
-    subgraph OX_M_Y1_T1[Michaelmas Term]
-      direction TB
-      OX_IntroUniMath[OX: Introduction to<br>University Mathematics]
-      OX_LinearAlg1[OX: Linear Algebra I]
-      OX_Analysis1[OX: Analysis I<br>Sequences and Series]
-    end
-  end
-
-  
-  PKU_MathAnalysis[PKU: Mathematics Analysis]
-  
-  NTHU_Parallel[NTHU 10710: Parallel Computing]
-  CMU_Parallel[CMU 15418: <br>Parallel Computer Architecture and Programming<br>Stanford CS 149: Parallel Computing]
-  NTHU_Parallel -.- CMU_Parallel
-  MIT_DistSys[MIT6.824：Distributed System]
-  
-
-  UOB -.-> NTHU_Parallel
-  UOB -.-> CMU_Parallel
-  NTHU_Parallel -.-> MIT_DistSys
-  CMU_Parallel -.-> MIT_DistSys
-
-  UOB --> OX_IntroUniMath
-
-  OX_IntroUniMath -.-> OX_LinearAlg1
-  OX_IntroUniMath -.-> PKU_MathAnalysis
-  
-```
-
 ## Contact Me
 
 Please feel free to contact me with any kind of following ways:
