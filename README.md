@@ -10,11 +10,11 @@ Some links:
 ## About Me
 
 - I am currently a _MSc Advanced Computing_ student at _Imperial College London_.
-- I just got my **B.Sc. Computer Science with Honours** degree from the _University of Birmingham_ with ***Class I, GPA 4.25, Weighted Overall 77.625%***.
-- I previously worked as **_CPO @ Limit-LAB_** and _Architect & Dev @ Treehollow_.
+- I am a member of **ML team @ [KIGLAND](https://github.com/kigland)** also am Alumni @ MiraclePlus (formerly YC China) S23 & S25.
+- I got my **B.Sc. Computer Science** with Honours, Class I degree from the _University of Birmingham_.
+- I previously worked as _CPO @ Limit-LAB_ and _Architect & Dev @ Treehollow_.
 - I have _understanding_ and _experience_ on **_Go_** and **C#**. I also work with _Java_, _Python_, _C_, _Powershell_, etc.
 - I also have _experience_ on _RDBMS_ (e.g. **_MySQL_** and **_PostgreSQL_**) and _NoSQL_ (e.g. **_Redis_**).
-  and am current doing _Cassandra_ and _MongoDB_ with _gorm_
 - I speak **_Mandarin (zh-CN)_**, **_British English (en-GB)_**, _Chinglish (en-CN)_ and fairly little _Cantonese (zh-HK)_
 - I can't _html_, _css_ and _JavaScript_, I feel sorry about this (but can do a little **_TypeScript_**)
 - I use **_GoLand_**, **_Rider_**, **_Visual Studio_**, **_WebStorm_**, _IDEA_, _CLion_ & _QtCreator_ as my IDEs, and **_git_** as VCS
@@ -25,10 +25,10 @@ Some links:
   of use)
 
 
-## My Interest
+## My ~~Research~~ Interest
 
-- Machine Learning & Deep Learning
-- Programming Language Theory
+- Machine Learning & Deep Learning (NLP & CV)
+- ~~Programming Language Theory~~
 - Other: interested at _Mathematics_, _Public Health_ and _Epidemiology_, may try to get _MPH/PGDip/PGCert_ degree after finishing CS courses
 
 ## Some badges
