@@ -9,7 +9,7 @@ Some links:
 
 ## About Me
 
-- I am a VP of **ML team @ [KIGLAND](https://github.com/kigland)** also am **Alumni @ MiraclePlus** (formerly YC China) **S23 & S25**.
+- I am the **Technical Director & Leader of ML Team @ [KIGLAND](https://github.com/kigland)** also am **Alumni @ MiraclePlus** (formerly YC China) **S23 & S25**.
 - I got **MSc Advanced Computing** (Distinction) from _Imperial College London_ and **B.Sc. Computer Science** with Honours, Class I from the _University of Birmingham_.
 - I previously worked as _CPO @ Limit-LAB_ and _Architect & Dev @ Treehollow_.
 - I have _understanding_ and _experience_ on **_Go_** and **C#**. I also work with _Java_, _Python_, _C_, _Powershell_, etc.
